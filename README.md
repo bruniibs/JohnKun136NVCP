@@ -143,4 +143,4 @@ German (A1), Japanese (N5 ~ N4). Check my repositories and give your opinion I'l
     
 <h1 align="center">Support Me ♥️ </h1>
 
-<a href="https://www.buymeacoffee.com/johnkun29" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="ko-fi.com/bruniibs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
